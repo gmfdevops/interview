@@ -1,9 +1,9 @@
 # GMF Interview Assessment
 You must **not** share this assessment directly on public forums for help.  However you are free to use any resources available on the internet to complete the tasks.
 
-Pick one of the below assessments, perform it to completion, and after completion email it to (ToDo).
+Pick one of the below assessments, perform it to completion, and after completion email it to the addresses provided by your recruiter.
 
-Each of these assessments coorelates to a different job role.  Do the one that you have the most interest in.  Feel free to do multiple if you like.
+Each of these assessments correlates to a different job role.  Do the one that you have the most interest in.  Feel free to do multiple if you like.
 
 ## Assessment 1: Brain teaser and docker skills assessment
 ### Part 1: Coding the brain teaser
@@ -39,12 +39,16 @@ XXXXXXX
 
 ### Part 3: Docker
 1. Create a docker image that will build and run your code against the test scenarios above.
-   - You should utilize docker best practices to make the run image as clean as possible.
-   - Think about what the next steps would be to use this image in a production environment.  
-   - We will likely ask you additional questions about what would come next if you were preparing to build this in a pipeline for a production deployment
+   - You should utilize docker best practices to make the runtime image as clean as possible.
+
+### Part 4: Prepare for live interview
+1. We will ask you questions about why you used certain code or methods so you must understand how your code works
+1. We will ask you about your container image and your testing methods
+1. We will likely ask you additional questions about what would come next if you were preparing to build this in a pipeline for a production deployment
+1. We will ask you about experience you have with using pipelines for enterprise software deployment
 
 ## Assessment 2: Terraform skills assessment
-### Part 1: Basic Terraform usuage
+### Part 1: Basic Terraform usage
 1. This can be done using any version of Terraform, no external providers are required.
 2. Create a Terraform configuration with a resource(s) that prints out locally a map of make and models listed below.
 ```
