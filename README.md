@@ -1,7 +1,11 @@
 # GMF Interview Assessment
 You must **not** share this assessment directly on public forums for help.  However you are free to use any resources available on the internet to complete the tasks.
 
-## Brain teaser and docker skills assessment
+Pick one of the below assessments, perform it to completion, and after completion email it to (ToDo).
+
+Each of these assessments coorelates to a different job role.  Do the one that you have the most interest in.  Feel free to do multiple if you like.
+
+## Assessment 1: Brain teaser and docker skills assessment
 ### Part 1: Coding the brain teaser
 1. This can be done in any coding or scripting language of your choice.  PowerShell, C#, Python, JavaScript, etc...
     - You will also need to configure this to run in docker later.  Pick accordingly.
