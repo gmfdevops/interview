@@ -6,7 +6,7 @@ Pick one of the below assessments, perform it to completion, and after completio
 Each of these assessments correlates to a different job role.  Do the one that you have the most interest in.  Feel free to do multiple if you like.
 
 ## Assessment 1: Brain teaser and docker skills assessment
-### Part 1: Coding the brain teaser
+### Coding the brain teaser
 1. This can be done in any coding or scripting language of your choice.  PowerShell, C#, Python, JavaScript, etc...
     - You will also need to configure this to run in docker later.  Pick accordingly.
 1. Your application will support input of any **odd** number >= 5
@@ -34,21 +34,21 @@ _X___X_
 XXXXXXX
 ```
 
-### Part 2:  Test your results
+### Test your results
 1. Configure a test to run your code from Part 1 against the inputs 5, 7, 15, 21 and output the results to the console.  I may change this to test other numbers as needed.  It must work for any odd number >= 5.
 
-### Part 3: Docker
+### Docker
 1. Create a docker image that will build and run your code against the test scenarios above.
    - You should utilize docker best practices to make the runtime image as clean as possible.
 
-### Part 4: Prepare for live interview
+### Prepare for live interview
 1. We will ask you questions about why you used certain code or methods so you must understand how your code works
 1. We will ask you about your container image and your testing methods
 1. We will likely ask you additional questions about what would come next if you were preparing to build this in a pipeline for a production deployment
 1. We will ask you about experience you have with using pipelines for enterprise software deployment
 
 ## Assessment 2: Terraform skills assessment
-### Part 1: Basic Terraform usage
+### Basic Terraform usage
 1. This can be done using any version of Terraform, no external providers are required.
 2. Create a Terraform configuration with a resource(s) that prints out locally a map of make and models listed below.
 ```
@@ -59,5 +59,5 @@ GMC         Yukon
 ```
 3. Your configuration should be able to accept more than the make and model key value pairs listed above.
 
-### Part 2: Convert the configuration to a module
+### Convert the configuration to a module
 1. Create a module based on the configuration above. The module should accept a map of make and models as input and should output the resources created.
