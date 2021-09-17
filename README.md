@@ -42,3 +42,18 @@ XXXXXXX
    - You should utilize docker best practices to make the run image as clean as possible.
    - Think about what the next steps would be to use this image in a production environment.  
    - We will likely ask you additional questions about what would come next if you were preparing to build this in a pipeline for a production deployment
+
+## Assessment 2: Terraform skills assessment
+### Part 1: Basic Terraform usuage
+1. This can be done using any version of Terraform, no external providers are required.
+2. Create a Terraform configuration with a resource(s) that prints out locally a map of make and models listed below.
+```
+# Make      Model
+Chevrolet   Suburban
+Cadillac    Escalade
+GMC         Yukon
+```
+3. Your configuration should be able to accept more than the make and model key value pairs listed above.
+
+### Part 2: Convert the configuration to a module
+1. Create a module based on the configuration above. The module should accept a map of make and models as input and should output the resources created.
