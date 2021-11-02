@@ -1,9 +1,11 @@
 # GMF Interview Assessment
-You must **not** share this assessment directly on public forums for help.  However you are free to use any resources available on the internet to complete the tasks.
-
-Pick one of the below assessments, perform it to completion, and after completion email it to the addresses provided by your recruiter.
+You must **not** share this assessment directly on public forums for help.  However you are free to use any resources available on the internet to complete the tasks.  We encourage you to use online resources to learn and solve these problems as needed.  We will ask you questions about what you learned and how you learned it.
 
 Each of these assessments correlates to a different job role.  Do the one that you have the most interest in.  Feel free to do multiple if you like.
+
+Pick one of the below assessments, perform it to completion, and create a new gibhub repo to publish your results.  Make sure the collaborators on this repository can see your new repository if it is not public. Email the link to your repository to the addresses provided by your recruiter. 
+
+Alternatively, if you do not have a github account you may zip up the source code and email it to the recruiter.  You do not need to include any of the compiled binaries as they will not get through email filtering. Just zip up only the source files.
 
 ## Assessment 1: Brain teaser and docker skills assessment
 ### Coding the brain teaser
